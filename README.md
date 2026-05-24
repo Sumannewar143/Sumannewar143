@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Suman Newar 👋
 
-<!--
-**Sumannewar143/Sumannewar143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+- 🐍 Python & Pandas — data cleaning, analysis, aggregation
+- 🗄️ SQL — querying and filtering real datasets
+- 📊 Matplotlib — data visualization and charts
+- 🤖 AI Tools — Prompt Engineering, RAG, MCP
+
+---
+
+## 🚀 Currently Building
+- 📽️ Netflix Movies Dataset Analysis (9,957 titles)
+- Practicing SQL on real datasets daily
+- Learning Power BI for dashboards
+
+---
+
+## 💼 I'm Open To
+Entry-level Data Analyst roles and AI Tools opportunities
+
+---
+
+## 📫 Reach Me
+- 📧 Email: newarsuman74@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/suman-newar-0a7026262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  
