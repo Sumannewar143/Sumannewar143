@@ -26,4 +26,4 @@ Entry-level Data Analyst roles and AI Tools opportunities
 
 ## 📫 Reach Me
 - 📧 Email: newarsuman74@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/suman-newar-0a7026262?
+- 💼 LinkedIn:https://www.linkedin.com/in/suman-newar-0a7026262
